@@ -5,6 +5,6 @@ I'm a developer at heart in the full stack web space. Working with technologies 
 
 - 🔭 I’m currently working on VR/AR, BlockChain, Data, ML/AI, but at ❤️ a WebDev
 - 🌱 I’m currently learning Spacial Computing. Think [ThreeJS](https://threejs.org) && [Unreal](https://www.unrealengine.com)
-- 📫 How to reach me: https://www.linkedin.com/in/oconpa/
+- 📫 How to reach me: [Message Me!](https://www.linkedin.com/in/oconpa)
 
 Pat ✌
